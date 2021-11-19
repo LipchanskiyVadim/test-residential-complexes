@@ -1,0 +1,166 @@
+.wrapper {
+  padding: 80px 20px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 1200px;
+  margin: 0px auto;
+}
+
+.title {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  position: relative;
+  bottom: 12px;
+}
+
+.select_menu {
+  width: 240px;
+  height: 50px;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 8px;
+  appearance: none;
+  background-image: url("../../assets/img/down-arrow.png");
+  background-repeat: no-repeat;
+  background-position: calc(100% - 8px) center;
+  background-size: 15px;
+}
+
+.subtitle {
+  margin: 30px 0px 20px 0px;
+  color: silver;
+}
+
+.item_wrapper + .item_wrapper {
+  margin-top: 18px;
+}
+
+.item {
+  cursor: pointer;
+  display: inline;
+  padding: 8px 15px;
+  color: #0d2041;
+  background-color: #eaedf0;
+  transition: 0.6s;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+}
+
+.item:hover {
+  transition: 0.6s;
+  color: white;
+  background-color: #0d2041;
+}
+
+.item_active {
+  cursor: pointer;
+  display: inline;
+  padding: 8px 15px;
+  color: white;
+  background-color: #0d2041;
+  transition: 0.6s;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+}
+
+.slider {
+  max-width: 800px;
+  height: 400px;
+  overflow: hidden;
+  position: relative;
+  top: 15px;
+}
+
+.button_wrap {
+  position: absolute;
+  z-index: 10;
+  bottom: 0;
+  right: 0;
+}
+
+.button_wrap button {
+  font-size: 40px;
+  color: white;
+  background-color: #e42232;
+  border: none;
+  cursor: pointer;
+  width: 60px;
+  position: relative;
+  height: 60px;
+}
+
+.button_wrap button img {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.resident {
+  margin-top: 30px;
+  position: relative;
+  padding-left: 15px;
+  display: flex;
+  align-items: center;
+}
+
+.resident::before {
+  content: "";
+  background-color: red;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  border-radius: 50%;
+  top: 50%;
+  left: 0px;
+  transform: translate(-50%, -50%);
+}
+
+.residentName {
+  font-family: Arial Black;
+  font-size: 12px;
+  padding-right: 3px;
+}
+
+.residentAdress {
+  padding-left: 3px;
+  color: grey;
+  font-size: 14px;
+}
+
+.description {
+  margin-top: 10px;
+  max-width: 650px;
+  font-size: 14px;
+  color: grey;
+}
+
+@media (max-width: 400px) {
+  .wrapper {
+    display: block;
+    max-width: 75%;
+  }
+
+  .slider {
+    max-width: 300px;
+    height: 400px;
+    overflow: hidden;
+    position: relative;
+    top: 15px;
+  }
+
+  .resident {
+    margin-top: -30px;
+  }
+
+  .description {
+    max-width: 80%;
+  }
+}

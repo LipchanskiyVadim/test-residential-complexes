@@ -1,0 +1,145 @@
+{
+  "residentialComplex": [
+    {
+		 "id": 1,
+      "name": "ЖК Олимпик Парк",
+      "address": "Нур-Султан, проспект Кабанбай, 40-батыра",
+      "description": "Просторная квартира с чудесными панорамными окнами и видом с высоты птичьего полета.Площадь помещения более 150 квадратных метров, на которых проживает дружная семья: мама, папа и дочка.Архитектурой дома задаются плавные линии, которые отразились в самом главном пространстве квартиры - зоне столовой и гостиной. Проект был тщательно продуман и проработан так, чтобы восприятие от интерьера было легким, комфортным, но при этом достойным и интересным.",
+      "img": [
+        "https://cdn.basicdecor.ru/files/media/designer_projects/403/original/7186.4d.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/403/original/7187.0b.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/403/original/7186.4d.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/403/original/7199.3d.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/403/original/7213.92.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/403/original/7237.8a.jpg"
+      ],
+      "type": "Smart comfort"
+    },
+    {
+		"id": 2,
+      "name": "ЖК «Аннино парк»",
+      "address": "Нур-Султан, Проспект Женис 11",
+      "description": "Особую геометрию пространства задают конструктивные элементы – балки. Они зонируют и позволяют разместить необходимое оборудование (проектор) и опустить потолок в минимальном количестве. Подсветка балок придет им воздушности, а также служит приглушенным освещением при просмотре фильмов на проекторе. Кухня разделена на три части: высокие колонны с встроенной бытовой техникой, модуль для активного приготовления и модуль у окна для хранения продуктов и сервировки блюд. На рабочей поверхности разместилась кофемашина, рядом обеденная группа. Раскладной стол с закругленными углами позволяет разместить большое количество гостей.",
+      "img": [
+        "https://cdn.basicdecor.ru/files/media/designer_projects/379/original/6819.6b.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/379/original/6822.6c.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/379/original/6849.3d.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/379/original/6849.3d.jpg"
+      ],
+      "type": "Smart comfort"
+    },
+    {
+		"id": 3,
+      "name": "ЖК Аркадия",
+      "address": "Нур-Султан, Проспект Женис 22",
+      "description": "Пространства общей зона объединены единой концепцией, перетеканием материалов из одного помещения в другое, чтобы это отражало дух, настроение, атмосферу всей семьи. В приватной зоне акцент на индивидуальность семейной пары, детские комнаты спроектированы для детей разных возрастов и увлечений. При выборе материалов предпочтение отдавали приглушенным, природным, но в тоже время ярким оттенкам и цветам. Особое внимание уделяли сочетанию различных текстур, контрастам в фактурах, текстилю, акцентам в декоре.",
+      "img": [
+        "https://cdn.basicdecor.ru/files/media/designer_projects/378/original/6784.42.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/378/original/6789.4a.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/378/original/6792.83.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/378/original/6800.7d.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/378/original/6804.62.jpg"
+      ],
+      "type": "Luxe"
+    },
+    {
+		"id": 4,
+      "name": "ул.Захарова",
+      "address": "Нур-Султан, ул.Захарова 4",
+      "description": "Особенностью квартиры является ее многоугольная форма, соединения балок в нескольких направлениях. При разработке планировочного решения особое внимание уделили тому, чтобы помещения визуально приблизить к правильной форме, сложные конструктивные соединения разместить в технических помещениях (гардеробные), угловые ниши наполнить системами хранения. При проектировании пространства придерживались приемов соосности (расположение дверных проемов), симметрии и многослойности (акцентных стен, потолка). Это создало основу элегантного и изысканного интерьера.",
+      "img": [
+        "https://cdn.basicdecor.ru/files/media/designer_projects/377/original/6756.ea.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/377/original/6760.d8.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/377/original/6765.d1.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/377/original/6754.fd.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/377/original/6753.f8.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/377/original/6751.1f.jpg"
+      ],
+      "type": "Luxe"
+    },
+	 
+    {
+		"id": 5,
+      "name": "ЖК Мегаполис",
+      "address": "Нур-Султан, ул. Музтау 1",
+      "description": "Особенностью квартиры является ее многоугольная форма, соедине Проект дома в коттеджном поселке Резиденция в современном стиле, создан нами для семьи из трех человек. Все помещения объединяет общая стилистика, а также единая гамма материалов для отделки - декоративная штукатурка стен, созданная по индивидуальному заказу, и износостойкий кварц-винил на полу, имитирующий паркетную доску.",
+      "img": [
+        "https://cdn.basicdecor.ru/files/media/designer_projects/363/original/6498.4e.png",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/363/original/6502.c2.png",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/363/original/6506.b2.png",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/363/original/6512.b8.png"
+      ],
+      "type": "Smart comfort"
+    },
+    {
+		"id": 6,
+      "name": "ЖК Престижино",
+      "address": "Нур-Султан, ул. Айша Биби 3",
+      "description": "Интерьер выполнен в современном стиле и в спокойной цветовой гамме. Заказчица проекта поставила перед нами задачу использовать нейтральные белый и серый, теплые и светлые оттенки фисташкового, бежевого, кофейного и немного светлой охры и насыщенный цвет темного дерева, а также попросила нас использовать для пола матовый керамогранит под белый мрамор с тонкой черной прожилкой. Для отделки стен мы подобрали покраску стен по стекло холсту и гипсовые 3D - панели под покраску, часть стены в гостиной декорирована рейками из массива сосны. Покрытие на пол выбрали со специальной антискользящей обработкой, по всей площади первого этажа сделан теплый пол.",
+      "img": [
+        "https://cdn.basicdecor.ru/files/media/designer_projects/347/original/6221.0b.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/347/original/6220.d6.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/347/original/6225.a4.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/347/original/6227.98.jpg"
+      ],
+      "type": "Smart comfort"
+    },
+    {
+		"id": 7,
+      "name": "ЖК Диадема",
+      "address": "Нур-Султан, ул. Акжар 3",
+      "description": "Уютная современная квартира для родителей-пенсионеров. Обязательна библиотека, камин, большая гостиная для приёма детей и внуков.",
+      "img": [
+        "https://cdn.basicdecor.ru/files/media/designer_projects/322/original/5884.8a.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/322/original/5887.33.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/322/original/5889.33.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/322/original/5890.33.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/322/original/5886.8a.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/322/original/5891.50.jpg"
+      ],
+      "type": "Luxe"
+    },
+    {
+		"id": 8,
+      "name": "ЖК Променад",
+      "address": "Нур-Султан, ул. Мирная 37",
+      "description": "Квартира сегмента премиум для состоятельной, зрелой пары в ЖК Променад. Стилистика квартиры выполнена в строгих, сдержанных тонах, с фокусом на комфорте и высоком качестве жизни.",
+      "img": [
+        "https://cdn.basicdecor.ru/files/media/designer_projects/280/original/5209.40.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/280/original/5214.76.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/280/original/5215.66.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/280/original/5208.24.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/280/original/5209.40.jpg"
+      ],
+      "type": "Smart comfort"
+    },
+    {
+		"id": 9,
+      "name": "ЖК Рубенс",
+      "address": "Нур-Султан, ул. Шокана Валиханова 19",
+      "description": "В каждой комнате есть большая рабочая зона, достаточное количество мест для хранения, а в комнате сына разместилось трансформируемое спальное место для друзей. Увеличив мокрую зону за счет коридора, нам удалось получить дополнительный полноценный санузел с душевой кабиной, а от ванной в мастер-блоке заказчики отказались в пользу вместительной душевой кабины и дополнительного места для хозяйственных нужд.",
+      "img": [
+        "https://cdn.basicdecor.ru/files/media/designer_projects/277/original/5155.80.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/277/original/5166.d3.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/277/original/5164.a3.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/277/original/5163.c4.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/277/original/5159.1b.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/277/original/5158.ff.jpg"
+      ],
+      "type": "Luxe"
+    },
+    {
+		"id": 10,
+      "name": "ЖК Престижино",
+      "address": "Нур-Султан, ул. Ыбрая Алтынсарина 22",
+      "description": "В квартире низкие потолки, нам пришлось осторожно подбирать освещение. Мы применили встроенные и накладные светильники. Стеклянная перегородка, отделяет пространство спальни от зоны кабинета и не препятствует при этом свободному проникновению света. Каждую свободную нишу мы использовали под шкафчики. При перепланировке мы увеличили санузел за счет гостиной, что позволило нам расположить душевую кабину, унитаз и стиральную машину.",
+      "img": [
+        "https://cdn.basicdecor.ru/files/media/designer_projects/253/original/4727.d0.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/253/original/4719.c0.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/253/original/4732.e1.jpg",
+        "https://cdn.basicdecor.ru/files/media/designer_projects/253/original/4720.91.jpg"
+      ],
+      "type": "Smart comfort"
+    }
+  ]
+}
